@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-hamzaantar&label=Profile%20views&color=0e75b6&style=flat" alt="al-hamzaantar" /> </p>
 
-# 💫 About Me:
-🔭 I’m currently working on game-hub<br><br>🌱 I’m currently learning React<br><br>👯 I’m looking to collaborate on matajiruk<br><br>🤝 I’m looking for help with sama<br><br>👨‍💻 All of my projects are available at https://alhamzaantar.vercel.app/en<br><br>💬 Ask me about React<br><br>📫 How to reach me Al-HamzaAntar@outlook.sa<br><br>📄 Know about my experiences https://alhamzaantar.vercel.app/resume
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/https://www.facebook.com/alhmzt.ntr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/hamzaantar2001/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/%d8%a7%d9%84%d8%ad%d9%85%d8%b2%d8%a9-%d8%b9%d9%86%d8%aa%d8%b1-404677304/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Al-HamzaAntar@outlook.sa) 
 
