@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Al-Hamza Antar</h1>
+<h3 align="center">I'm a passionate Web Developer. I specialize in creating responsive, accessible, and performant applications with modern technologies.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=al-hamzaantar&label=Profile%20views&color=0e75b6&style=flat" alt="al-hamzaantar" /> </p>
+
 # 💫 About Me:
 🔭 I’m currently working on game-hub<br><br>🌱 I’m currently learning React<br><br>👯 I’m looking to collaborate on matajiruk<br><br>🤝 I’m looking for help with sama<br><br>👨‍💻 All of my projects are available at https://alhamzaantar.vercel.app/en<br><br>💬 Ask me about React<br><br>📫 How to reach me Al-HamzaAntar@outlook.sa<br><br>📄 Know about my experiences https://alhamzaantar.vercel.app/resume
 
