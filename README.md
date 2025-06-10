@@ -37,3 +37,7 @@
 
 ![snake gif](https://github.com/Al-HamzaAntar/Al-HamzaAntar/blob/output/github-contribution-grid-snake.svg)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Al-HamzaAntar/Al-HamzaAntar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</div>
+
