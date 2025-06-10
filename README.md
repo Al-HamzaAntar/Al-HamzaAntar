@@ -41,11 +41,3 @@
   <img src="https://raw.githubusercontent.com/Al-HamzaAntar/Al-HamzaAntar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
 
-
-<h1>Al-Hamza Antar</h1>
-<p id="job">Web Developer</p><br><br>
-<div class="button">
-  <button class="btn" type="submit">
-    <a href="#Projects">See more</a>
-  </button>
-</div><br>
