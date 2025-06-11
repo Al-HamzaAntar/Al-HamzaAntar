@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Al-Hamza Antar</h1>
 <h3 align="center">I'm a passionate Web Developer. I specialize in creating responsive, accessible, and performant applications with modern technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=al-hamzaantar&label=Profile%20views&color=0e75b6&style=flat" alt="al-hamzaantar" /> </p>
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/https://www.facebook.com/alhmzt.ntr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/hamzaantar2001/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/%d8%a7%d9%84%d8%ad%d9%85%d8%b2%d8%a9-%d8%b9%d9%86%d8%aa%d8%b1-404677304/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Al-HamzaAntar@outlook.sa) 
-
 # 💻 Tech Stack:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,14 +21,24 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)    
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)   
+
+<!-- Stats -->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Al-HamzaAntar&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Al-HamzaAntar&theme=dark&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=Al-HamzaAntar&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Al-HamzaAntar&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-HamzaAntar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=al-hamzaantar&label=Profile%20views&color=0e75b6&style=flat" alt="al-hamzaantar" /> </p>
+
+<!-- Social connections -->
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/https://www.facebook.com/alhmzt.ntr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/hamzaantar2001/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/%d8%a7%d9%84%d8%ad%d9%85%d8%b2%d8%a9-%d8%b9%d9%86%d8%aa%d8%b1-404677304/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Al-HamzaAntar@outlook.sa) 
 
 ---
+<!-- Visit Counter -->
 [![](https://visitcount.itsvg.in/api?id=Al-HamzaAntar&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Snake Animation -->
 ![snake gif](https://github.com/Al-HamzaAntar/Al-HamzaAntar/blob/output/github-snake-dark.svg)
 
