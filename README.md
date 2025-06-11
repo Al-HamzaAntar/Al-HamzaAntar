@@ -35,11 +35,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Al-HamzaAntar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/Al-HamzaAntar/Al-HamzaAntar/blob/output/github-contribution-grid-snake.svg)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Al-HamzaAntar/Al-HamzaAntar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</div>
-
 ![snake gif](https://github.com/Al-HamzaAntar/Al-HamzaAntar/blob/output/github-snake-dark.svg)
 
