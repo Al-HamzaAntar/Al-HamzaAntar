@@ -26,7 +26,9 @@
 ![D3](https://img.shields.io/badge/d3-%23F05033.svg?style=for-the-badge&logo=d3&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%231572B6.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)   
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 
 <!-- Stats -->
 # 📊 GitHub Stats:
