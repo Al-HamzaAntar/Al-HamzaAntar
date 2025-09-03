@@ -32,22 +32,6 @@
 ![Cursor](https://img.shields.io/badge/cursor-000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/windsurf-34E8BB.svg?style=for-the-badge&logo=windsurf&logoColor=white)
 
-
-
-
-<!-- Stats -->
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Al-HamzaAntar&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Al-HamzaAntar&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-HamzaAntar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)" 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=al-hamzaantar&label=Profile%20views&color=0e75b6&style=flat" alt="al-hamzaantar" /> </p>
-
-
-<!-- Social connections -->
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/https://www.facebook.com/alhmzt.ntr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/hamzaantar2001/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/%d8%a7%d9%84%d8%ad%d9%85%d8%b2%d8%a9-%d8%b9%d9%86%d8%aa%d8%b1-404677304/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Al-HamzaAntar@outlook.sa) 
-
 ---
 <!-- Visit Counter -->
 [![](https://visitcount.itsvg.in/api?id=Al-HamzaAntar&icon=0&color=0)](https://visitcount.itsvg.in)
