@@ -42,6 +42,7 @@
 ![Windsurf](https://img.shields.io/badge/windsurf-34E8BB.svg?style=for-the-badge&logo=windsurf&logoColor=white)
 
 ---
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
   <img src="https://skillicons.dev/icons?i=figma" style="width:48px; height:48px;" />
   <img src="https://skillicons.dev/icons?i=html" style="width:48px; height:48px;" />
@@ -72,6 +73,7 @@
   <img src="https://skillicons.dev/icons?i=notion" style="width:48px; height:48px;" />
   <img src="https://skillicons.dev/icons?i=vscode" style="width:48px; height:48px;" />
 </div>
+
 <!-- Visit Counter -->
 [![](https://visitcount.itsvg.in/api?id=Al-HamzaAntar&icon=0&color=0)](https://visitcount.itsvg.in)
 
