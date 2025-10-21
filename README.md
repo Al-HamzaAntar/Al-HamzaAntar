@@ -42,55 +42,37 @@
 ![Windsurf](https://img.shields.io/badge/windsurf-34E8BB.svg?style=for-the-badge&logo=windsurf&logoColor=white)
 
 ---
-<div class="skills">
-  <p><img src="https://skillicons.dev/icons?i=figma" /></p>
-  <p><img src="https://skillicons.dev/icons?i=html" /></p>
-  <p><img src="https://skillicons.dev/icons?i=css" /></p>
-  <p><img src="https://skillicons.dev/icons?i=bootstrap" /></p>
-  <p><img src="https://skillicons.dev/icons?i=tailwind" /></p>
-  <p><img src="https://skillicons.dev/icons?i=js" /></p>
-  <p><img src="https://skillicons.dev/icons?i=ts" /></p>
-  <p><img src="https://skillicons.dev/icons?i=react" /></p>
-  <p><img src="https://skillicons.dev/icons?i=nextjs" /></p>
-  <p><img src="https://skillicons.dev/icons?i=vue" /></p>
-  <p><img src="https://skillicons.dev/icons?i=vite" /></p>
-  <p><img src="https://skillicons.dev/icons?i=npm" /></p>
-  <p><img src="https://skillicons.dev/icons?i=pnpm" /></p>
-  <p><img src="https://skillicons.dev/icons?i=yarn" /></p>
-  <p><img src="https://skillicons.dev/icons?i=nodejs" /></p>
-  <p><img src="https://skillicons.dev/icons?i=express" /></p>
-  <p><img src="https://skillicons.dev/icons?i=php" /></p>
-  <p><img src="https://skillicons.dev/icons?i=laravel" /></p>
-  <p><img src="https://skillicons.dev/icons?i=python" /></p>
-  <p><img src="https://skillicons.dev/icons?i=flask" /></p>
-  <p><img src="https://skillicons.dev/icons?i=django" /></p>
-  <p><img src="https://skillicons.dev/icons?i=d3" /></p>
-  <p><img src="https://skillicons.dev/icons?i=wordpress" /></p>
-  <p><img src="https://skillicons.dev/icons?i=git" /></p>
-  <p><img src="https://skillicons.dev/icons?i=github" /></p>
-  <p><img src="https://skillicons.dev/icons?i=gitlab" /></p>
-  <p><img src="https://skillicons.dev/icons?i=notion" /></p>
-  <p><img src="https://skillicons.dev/icons?i=vscode" /></p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=figma" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=html" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=css" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=bootstrap" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=tailwind" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=js" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=ts" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=react" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=nextjs" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=vue" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=vite" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=npm" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=pnpm" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=yarn" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=nodejs" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=express" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=php" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=laravel" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=python" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=flask" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=django" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=d3" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=wordpress" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=git" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=github" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=gitlab" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=notion" style="width:48px; height:48px;" /></p>
+  <p style="margin: 0;"><img src="https://skillicons.dev/icons?i=vscode" style="width:48px; height:48px;" /></p>
 </div>
 
-<style>
-  .skills {
-    display: flex;
-    flex-wrap: wrap; /* allows icons to go to the next line if needed */
-    gap: 10px; /* spacing between icons */
-    justify-content: center; /* centers icons horizontally */
-    align-items: center;
-  }
-
-  .skills p {
-    margin: 0;
-  }
-
-  .skills img {
-    width: 48px; /* you can adjust size */
-    height: 48px;
-  }
-</style>
 
 
 <!-- Visit Counter -->
