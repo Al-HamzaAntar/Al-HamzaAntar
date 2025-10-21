@@ -44,33 +44,33 @@
 ---
 
 <p><img src="https://skillicons.dev/icons?i=figma" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=html" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=css" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=bootstrap" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=tailwind" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=js" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=ts" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=react" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=nextjs" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=vue" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=vite" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=npm" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=pnpm" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=yarn" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=nodejs" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=express" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=php" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=laravel" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=python" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=flask" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=django" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=d3" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=wordpress" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=git" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=github" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=gitlab" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=notion" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=vscode" /></p>
+<p><img src="https://skillicons.dev/icons?i=html" /></p>
+<p><img src="https://skillicons.dev/icons?i=css" /></p>
+<p><img src="https://skillicons.dev/icons?i=bootstrap" /></p>
+<p><img src="https://skillicons.dev/icons?i=tailwind" /></p>
+<p><img src="https://skillicons.dev/icons?i=js" /></p>
+<p><img src="https://skillicons.dev/icons?i=ts" /></p>
+<p><img src="https://skillicons.dev/icons?i=react" /></p>
+<p><img src="https://skillicons.dev/icons?i=nextjs" /></p>
+<p><img src="https://skillicons.dev/icons?i=vue" /></p>
+<p><img src="https://skillicons.dev/icons?i=vite" /></p>
+<p><img src="https://skillicons.dev/icons?i=npm" /></p>
+<p><img src="https://skillicons.dev/icons?i=pnpm" /></p>
+<p><img src="https://skillicons.dev/icons?i=yarn" /></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs" /></p>
+<p><img src="https://skillicons.dev/icons?i=express" /></p>
+<p><img src="https://skillicons.dev/icons?i=php" /></p>
+<p><img src="https://skillicons.dev/icons?i=laravel" /></p>
+<p><img src="https://skillicons.dev/icons?i=python" /></p>
+<p><img src="https://skillicons.dev/icons?i=flask" /></p>
+<p><img src="https://skillicons.dev/icons?i=django" /></p>
+<p><img src="https://skillicons.dev/icons?i=d3" /></p>
+<p><img src="https://skillicons.dev/icons?i=wordpress" /></p>
+<p><img src="https://skillicons.dev/icons?i=git" /></p>
+<p><img src="https://skillicons.dev/icons?i=github" /></p>
+<p><img src="https://skillicons.dev/icons?i=gitlab" /></p>
+<p><img src="https://skillicons.dev/icons?i=notion" /></p>
+<p><img src="https://skillicons.dev/icons?i=vscode" /></p>
 
 <!-- Visit Counter -->
 [![](https://visitcount.itsvg.in/api?id=Al-HamzaAntar&icon=0&color=0)](https://visitcount.itsvg.in)
