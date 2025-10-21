@@ -43,11 +43,9 @@
 
 ---
 
-  <img src="https://skillicons.dev/icons?i=skill_name" />
-  <p align="center"><img src="https://skillicons.dev/icons?i=figma" /></p>
-  <p align="center"><img src="https://skillicons.dev/icons?i=html" /></p>
-  <p align="center"><img src="https://skillicons.dev/icons?i=css" /></p>
-
+<p align="center"><img src="https://skillicons.dev/icons?i=figma" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=html" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=css" /></p>
 
 <!-- Visit Counter -->
 [![](https://visitcount.itsvg.in/api?id=Al-HamzaAntar&icon=0&color=0)](https://visitcount.itsvg.in)
