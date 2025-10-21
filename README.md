@@ -47,6 +47,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=skill_name" />
   <p align="center"><img src="https://skillicons.dev/icons?i=figma" /></p>
+  <p align="center"><img src="https://skillicons.dev/icons?i=html" /></p>
+  <p align="center"><img src="https://skillicons.dev/icons?i=css" /></p>
 </p>
 ---
 <!-- Visit Counter -->
