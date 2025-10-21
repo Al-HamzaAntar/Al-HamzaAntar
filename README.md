@@ -43,7 +43,7 @@
 
 ---
 
-<p align=""><img src="https://skillicons.dev/icons?i=figma" /></p>
+<p><img src="https://skillicons.dev/icons?i=figma" /></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=html" /></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=css" /></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=bootstrap" /></p>
