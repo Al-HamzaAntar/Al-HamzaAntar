@@ -43,37 +43,6 @@
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=figma" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=html" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=css" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=js" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=ts" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=react" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=vue" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=vite" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=npm" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=pnpm" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=yarn" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=express" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=php" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=laravel" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=python" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=flask" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=django" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=d3" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=wordpress" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=git" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=github" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=gitlab" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=notion" style="width:48px; height:48px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" style="width:48px; height:48px;" />
-</div>
-
 <!-- Visit Counter -->
 [![](https://visitcount.itsvg.in/api?id=Al-HamzaAntar&icon=0&color=0)](https://visitcount.itsvg.in)
 
