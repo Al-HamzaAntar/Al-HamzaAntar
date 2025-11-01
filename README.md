@@ -34,6 +34,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![D3](https://img.shields.io/badge/d3-%23F05033.svg?style=for-the-badge&logo=d3&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%231572B6.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
+![Odoo](https://img.shields.io/badge/Odoo-%237C2F52.svg?style=for-the-badge&logo=odoo&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/GitLab-%23FCA326.svg?style=for-the-badge&logo=gitlab&logoColor=black)
