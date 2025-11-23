@@ -42,6 +42,7 @@
 ![Odoo](https://img.shields.io/badge/Odoo-%237C2F52.svg?style=for-the-badge&logo=odoo&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230082C6.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23404d59.svg?style=for-the-badge&logo=postman&logoColor=%23FF6C37)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/GitLab-%23FCA326.svg?style=for-the-badge&logo=gitlab&logoColor=black)
