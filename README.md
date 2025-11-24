@@ -31,6 +31,7 @@
 ![Bun](https://img.shields.io/badge/Bun-FBF0D9?style=for-the-badge&logo=bun&logoColor=black)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23404d59.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E)
+![TypeORM](https://img.shields.io/badge/typeorm-%23404d59.svg?style=for-the-badge&logo=typeorm&logoColor=%23FE0853)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-%231572B6.svg?style=for-the-badge&logo=Python&logoColor=white)
