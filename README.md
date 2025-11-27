@@ -37,6 +37,7 @@
 ![Python](https://img.shields.io/badge/Python-%231572B6.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23404d59.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%231ABC9C.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23404d59.svg?style=for-the-badge&logo=postgresql&logoColor=white)
