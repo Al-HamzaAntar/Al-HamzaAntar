@@ -41,6 +41,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%231ABC9C.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23404d59.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%23404d59.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![D3](https://img.shields.io/badge/d3-%23F05033.svg?style=for-the-badge&logo=d3&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%231572B6.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 ![Odoo](https://img.shields.io/badge/Odoo-%237C2F52.svg?style=for-the-badge&logo=odoo&logoColor=white)
