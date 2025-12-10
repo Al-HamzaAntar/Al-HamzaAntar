@@ -61,8 +61,6 @@
 ---
 <img width="2816" height="699" alt="Al-Hamza" src="https://github.com/user-attachments/assets/847ca613-e7b9-4772-bb0d-86094bddd0a0" />
 ---
-<!-- Visit Counter -->
-[![](https://visitcount.itsvg.in/api?id=Al-HamzaAntar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Snake Animation -->
 ![snake gif](https://github.com/Al-HamzaAntar/Al-HamzaAntar/blob/output/github-snake-dark.svg)
