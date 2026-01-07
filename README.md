@@ -58,7 +58,6 @@
 ![Cursor](https://img.shields.io/badge/cursor-000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/windsurf-34E8BB.svg?style=for-the-badge&logo=windsurf&logoColor=white)
 ![Google Anti-gravity](https://img.shields.io/badge/Google-Anti--gravity-EA4335?style=for-the-badge&logo=google&logoColor=white)
-![Physics Engine](https://img.shields.io/badge/Physics-Gravity_Mode-34A853?style=for-the-badge&logo=physics&logoColor=white)
 
 ---
 <img width="2816" height="699" alt="Al-Hamza" src="https://github.com/user-attachments/assets/847ca613-e7b9-4772-bb0d-86094bddd0a0" />
