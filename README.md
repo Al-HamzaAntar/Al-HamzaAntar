@@ -59,7 +59,6 @@
 ![Windsurf](https://img.shields.io/badge/windsurf-34E8BB.svg?style=for-the-badge&logo=windsurf&logoColor=white)
 ![Google Anti-gravity](https://img.shields.io/badge/Google-Anti--gravity-EA4335?style=for-the-badge&logo=google&logoColor=white)
 
----
 <img width="2816" height="699" alt="Al-Hamza" src="https://github.com/user-attachments/assets/847ca613-e7b9-4772-bb0d-86094bddd0a0" />
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
