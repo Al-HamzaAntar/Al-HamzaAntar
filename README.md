@@ -63,6 +63,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!-- Snake Animation -->
+
 ![snake gif](https://github.com/Al-HamzaAntar/Al-HamzaAntar/blob/output/github-snake-dark.svg)
 
 
