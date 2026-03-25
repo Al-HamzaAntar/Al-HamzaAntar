@@ -65,7 +65,7 @@
 <img width="2816" height="699" alt="Al-Hamza" src="https://github.com/user-attachments/assets/847ca613-e7b9-4772-bb0d-86094bddd0a0" />
 
 <p align="center">
-  <img src="./al-hamza.png" alt="Al-Hamza Contributions" width="800">
+  <img src="./al-hamza.png" alt="Al-Hamza Contributions" width="2816" height="699">
 </p>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
