@@ -47,6 +47,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%23404d59.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![D3](https://img.shields.io/badge/d3-%23F05033.svg?style=for-the-badge&logo=d3&logoColor=white) 
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%231572B6.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 ![Odoo](https://img.shields.io/badge/Odoo-%237C2F52.svg?style=for-the-badge&logo=odoo&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230082C6.svg?style=for-the-badge&logo=docker&logoColor=white)
